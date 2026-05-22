@@ -1,3 +1,5 @@
-{
-  "endpoint": "https://api.phimsrv.com"
-}
+[
+  "https://api.phimsrv.com",
+  "https://api.phimsrv1.com",
+  "https://api.phimsrv2.com"
+]
