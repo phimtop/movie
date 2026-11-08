@@ -1,9 +1,5 @@
-{
-  "servers" : [
+[
     "https://api.phimsrv.com",
     "https://sv1.video-cdn.online",
     "https://api.phimsrv2.com"
-  ],
-  "version": "1.1.0",
-  "latest_version": "https://phimso.xyz/phimso-1.0.0.apk"
-}
+  ]
